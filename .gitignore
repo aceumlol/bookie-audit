@@ -1,0 +1,7 @@
+
+data/raw/*.csv
+!data/raw/E0_2425.csv
+output/results/*.csv
+__pycache__/
+*.pyc
+.DS_Store
